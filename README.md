@@ -18,7 +18,7 @@
   - For top 3 countries:
      - perform validation 
      - log GDP, Population, CO2 per country to stdout
-     - export GDP, Population, CO2 per country to csv files in .\out sub-dir
+     - export GDP, Population, CO2 per country to csv files in .\out sub-dir   
 
 **How to run**
 * Running on the virtual PC where it's deployed already, with pre-requisites in place:
