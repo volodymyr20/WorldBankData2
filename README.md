@@ -1,4 +1,4 @@
-**This is a readme for the project evaluation task: crossover.com -> Application Process, QA Engineer -> Step 4, Project Evaluation, PArt 2**
+**This is a readme for the project evaluation task: crossover.com -> Application Process, QA Engineer -> Step 4, Project Evaluation, Part 2**
 
 **Pre-requisites:**
 * Eclipse
@@ -8,10 +8,10 @@
 * JUnit 4.11, mvnrepository.com/artifact/junit/junit/4.11, path to the jar added to CLASSPATH
 
 **Project description**
-* Configuration: .\resources\config.properties:
-  - uncomment the one you need (comment the other one)
+1) Configuration: .\resources\config.properties:
+* uncomment the one you need (comment the other one)
   - the rest is expected key values for the top three countries for validation 
-* Main file: CountryKeyFiguresTest, should be run via TestRunner, here is the summary of what it does:
+2) Main file: CountryKeyFiguresTest, should be run via TestRunner, here is the summary of what it does:
   -  Goto worldbank.org -> Data -> By Country -> High Income:
      - get for each country: GDP, Population, CO2
   - Go home, close browser
