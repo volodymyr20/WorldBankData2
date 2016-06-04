@@ -11,6 +11,7 @@
 1) Configuration: .\resources\config.properties:
 * uncomment the one you need (comment the other one)
   - the rest is expected key values for the top three countries for validation 
+
 2) Main file: CountryKeyFiguresTest, should be run via TestRunner, here is the summary of what it does:
   -  Goto worldbank.org -> Data -> By Country -> High Income:
      - get for each country: GDP, Population, CO2
