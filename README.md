@@ -8,6 +8,7 @@
 * JUnit 4.11, mvnrepository.com/artifact/junit/junit/4.11, path to the jar added to CLASSPATH
 
 **Project description**
+
 1) Configuration: .\resources\config.properties:
 * uncomment the one you need (comment the other one)
   - the rest is expected key values for the top three countries for validation 
