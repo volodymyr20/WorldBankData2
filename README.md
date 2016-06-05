@@ -2,10 +2,10 @@
 
 **Pre-requisites:**
 * Eclipse
-* JRE 1.7+, jars from "lib" added to Project Properties -> Libraries
+* JRE 1.7+, jars from "lib" added to Project Properties -> Libraries, JAVA_HOME environment variable should point to its root dir
 * Selenium 2.53: selenium-release.storage.googleapis.com/2.53, jars (also from "lib") added to Project Properties -> Libraries
 * IE Driver: selenium-release.storage.googleapis.com/2.53/IEDriverServer_x64_2.53.1.zip, should be unzipped into .\utils sub-directory
-* JUnit 4.11, mvnrepository.com/artifact/junit/junit/4.11, path to the jar added to CLASSPATH
+* JUnit 4.11, mvnrepository.com/artifact/junit/junit/4.11, path to the jar added to CLASSPATH, JUNIT_HOME environment variable should point to its root dir
 
 **Project description**
 
